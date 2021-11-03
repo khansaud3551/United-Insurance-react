@@ -1,0 +1,49 @@
+/* PROMOTION SECTION */
+.radius_style {
+  border-radius: 30px;
+}
+.border_btom {
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+/* FAQ SECTION */
+
+.arrow_width {
+  width: 25px;
+}
+
+/* Blogs SECTION  */
+
+/* CUSTOMERS SECTION  */
+.box_round {
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-bottom-left-radius: 0px;
+}
+.minus_margin {
+  margin-top: -35px;
+}
+/* FOOTER */
+
+.style_1 {
+  background: var(--white);
+  border: 1px solid var(--green-light);
+  display: flex;
+  justify-content: space-between;
+}
+.style_2 {
+  border: none;
+  outline: none;
+  width: 100%;
+}
+.style_3 {
+  background: var(--green-light);
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.styling_col {
+  opacity: 90%;
+}

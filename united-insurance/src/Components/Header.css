@@ -1,0 +1,12 @@
+.header_style {
+  height: 80px;
+}
+
+.header_logo {
+  width: 270px;
+  height: auto;
+}
+.nav-link {
+  color: var(--blue);
+  font-size: 20px;
+}

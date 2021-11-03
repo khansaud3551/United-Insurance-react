@@ -1,0 +1,12 @@
+.height_set1 {
+  height: 346px;
+  background: var(--white);
+  border-radius: 15px;
+}
+.gap_y {
+  gap: 13px 0px;
+}
+.round_right {
+  border-top-right-radius: 6 px !important;
+  border-bottom-right-radius: 20px;
+}

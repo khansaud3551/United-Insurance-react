@@ -1,0 +1,22 @@
+.steps_count {
+  color: var(--green-light);
+  position: absolute;
+  left: 0px;
+  top: -15px;
+  z-index: -1;
+  font-size: 53px;
+  font-weight: 500;
+  opacity: 40%;
+  font-family: monospace;
+}
+.steps_count2 {
+  color: var(--green-light);
+  position: absolute;
+  right: 0;
+  top: -15px;
+  z-index: -1;
+  font-size: 53px;
+  font-weight: 500;
+  opacity: 40%;
+  font-family: monospace;
+}
